@@ -1,0 +1,115 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+     font-family: 'Gaegu', sans-serif;
+    color: white;
+    text-align: center;
+	background-color: #366349;
+}
+
+.title {
+    font-size: 50px;
+    background-color: olive;
+    font-weight: 800;
+    padding: 5px 20px;
+    margin:15px 270px;
+    color:salmon;
+    border-radius:60px;
+    
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+	color:orange;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+.knife{
+    width:200px;
+}
+.city{
+border-radius:50px;
+    width:450px;
+}
+.start{
+    width:300px;
+    border-radius:60px;
+}
+.bear{
+    width:240px;
+}
+.log{
+    width:250px;
+}
+.fall{
+    width:250px;
+}
+.dumb{
+    width:290px;
+}
+.haha{
+    width:250px;
+}
+.end-Two{
+    width:270px;
+}
+h2{
+    margin:20px 50px;
+}
+button{
+    padding:2px 13px;
+    margin:0px 200px;
+    border-radius:20px;
+    font-size:1.6em;
+    font-family:'Dokdo',sans-serif;
+    border-color:gray;
+}
+.re-One{
+    margin:0px;
+}
+.re-Two{
+    margin:0px;
+}
